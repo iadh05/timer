@@ -1,0 +1,16 @@
+.time-num{
+  font-size: 54px;
+  text-align: center;
+
+
+}
+.time{display: flex;
+    justify-content: center;
+    color: grey;
+    /* width: 100%; */
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;}
+    .hms{
+      margin-right: 25px;
+    }
